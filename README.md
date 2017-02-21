@@ -10,3 +10,8 @@ Professional online portfolio.
 4. Personal Attributes
 5. Employment History
 6. Education
+
+### Stack Used
+	* CSS
+	* Twitter Bootstrap
+	* HTML
