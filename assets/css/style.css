@@ -40,13 +40,14 @@ h6 {
 .panel {
     padding: 5px;
     background: #ffffff;
-    color: #767270;
+    color: #000000;
 }
 
 .panel-heading {
     font-size: 30px;
     color: #4285F4;
     text-align: left;
+    background: #ffffff;
 }
 
 .panel-header {
@@ -55,7 +56,13 @@ h6 {
 }
 
 .panel-body {
-    padding: 5px;
+    padding: 10px;
+    background: #ffffff;
+}
+
+.panel-footer {
+    padding: 20px 0 0 0;
+    background: #ffffff;
 }
 
 a:link {
@@ -82,4 +89,12 @@ a:active {
 .caption {
     font-weight: 400;
     text-align: center;
+}
+
+img {
+    padding: 0 10px 0 0;
+}
+
+p {
+    color: #000000;
 }
